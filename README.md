@@ -65,7 +65,7 @@ Now Type onlinehacking-pubg Run Tool
 
 ### ♻ Update Tool Command 
 ```
-$ rm -rf PUBG-Phishing && git clone https://github.com/legend-and-criminal-boyz/LAC-PUBG.git && cd LAC-PUBG && chmod +x * && ./setup 
+$ rm -rf LAC-PUBG- && git clone https://github.com/legend-and-criminal-boyz/LAC-PUBG.git && cd LAC-PUBG && chmod +x * && ./setup 
 ```
 
 
